@@ -5,3 +5,26 @@ Download "Code Blocks", ( Windows 64 bit (including compiler) ) from http://www.
 Select:
 New project > Console application > everything else should be self explanatory.
 After setup click on the left side > Sources > open main.c
+
+Paste the code:
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello world!\n");
+    printf("Hello\n");
+    printf("World");
+    printf("!\n");
+
+    return 0;
+}
+
+-----------------------
+To run the code click "Build and run".
+
+Output:
+Hello world!
+Hello
+World!

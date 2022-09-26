@@ -1,3 +1,7 @@
 C language installation - Windows
 
 Download "Code Blocks", ( Windows 64 bit (including compiler) ) from http://www.codeblocks.org/downloads/binaries/.
+
+Select:
+New project > Console application > everything else should be self explanatory.
+After setup click on the left side > Sources > open main.c
